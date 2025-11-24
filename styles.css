@@ -100,6 +100,10 @@ header nav a:hover {
     margin: 10px 0;
 }
 
+.card img {
+    height: 150px;
+}
+
 .learn-about h2 {
     color: #48BB78;
     font-size: 24px;
